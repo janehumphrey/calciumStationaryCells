@@ -1,5 +1,5 @@
 CALCIUM (STATIONARY CELLS)
-calciumStationaryCells.m
+DOI: 10.5281/zenodo.6390919
 
 OVERVIEW:
 
