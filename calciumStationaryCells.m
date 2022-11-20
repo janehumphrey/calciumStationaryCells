@@ -8,9 +8,9 @@ clear variables;
 clc;
 
 % USER INPUT.
-inputDir = '/Users/janey/Dropbox/JANEY/PhD/Calcium_code/Calcium_stationary_cells/Data';  % Folder containing a single .tif file.
+inputDir = '';  % Folder containing a single .tif file.
 bgFile = '';  % Background file (optional).
-resultsDir = '/Users/janey/Dropbox/JANEY/PhD/Calcium_code/Calcium_stationary_cells/Results';  % Results folder.
+resultsDir = '';  % Results folder.
 Info.cellDiam = 20;  % Cell diameter, in um.
 Info.pixelSize = 16/20/1.5;  % Pixel size, in um.
 Info.interval = 1;  % Time between frames, in s.
